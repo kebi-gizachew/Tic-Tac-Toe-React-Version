@@ -1,0 +1,15 @@
+.dec{
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:50px;
+    font-weight:600;
+    color:#10cbff;
+}
+.dec p{
+    margin:0;
+    padding:0;
+    text-align:center;
+}

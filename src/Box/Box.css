@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.box{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight:700;
+    background-color:#20232a;
+    border-radius:10px;
+    border:2px solid black;
+    cursor:pointer;
+}
+.btn{
+    width:100%;
+    height:100%;
+    background-color:#20232a;
+    color:#10cbff;
+
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:600%;
+    font-weight:600;
+}
